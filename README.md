@@ -1,2 +1,2 @@
-# fun-with-data
-contains ipython notebooks for data visualization, data analysis etc stuff playing around with data 
+# Fun with Data
+Contains ipython notebooks showing various types of data visualization
